@@ -26,7 +26,7 @@ I'm leading the end-to-end process of developing impactful learning experiences 
 
 ## Let's Connect! 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
-Feel free to explore my repositories, and let's chat about technology, coding, or anything!
+Feel free to explore my repositories, and let's chat about technology, coding, or anything! -->
 
