@@ -24,9 +24,10 @@ My experience spans diverse industries, including banking, mining, entertainment
 
 I'm leading the end-to-end process of developing impactful learning experiences for a few of the worlds educational publishers. My expertise lies in seamlessly integrating engaging educational content with game mechanics. I bring a results-driven approach, consistently meeting the stringent standards set by educational institutions. My commitment to leveraging technology for educational enhancement is reflected in the successful execution of projects under my leadership. 
 
-## Let's Connect! 🌐
+<!-- ## Let's Connect! 🌐
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
-Feel free to explore my repositories, and let's chat about technology, coding, or anything! -->
+Feel free to explore my repositories, and let's chat about technology, coding, or anything! 
+-->
 
