@@ -1,12 +1,10 @@
 # 🚀  I'm Thales and here's a snapshot:
 
-🌱 I’m currently learning Go and spanish
-
 ## Skills
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) and all its branches (typescript, react, etc...)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) mostly express.js and now a days a little hono.js
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 
